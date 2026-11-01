@@ -5,3 +5,7 @@ redis_host: redis.ddaaws92s.store
 mysql_host: mysql.ddaaws92s.store
 rabbitmq_host: rabbitmq.ddaaws92s.store
 catalogue_host: catalogue.ddaaws92s.store
+user_host: user.ddaaws92s.store
+cart_host: cart.ddaaws92s.store
+shipping_host: shipping.ddaaws92s.store
+payment_host: payment.ddaaws92s.store

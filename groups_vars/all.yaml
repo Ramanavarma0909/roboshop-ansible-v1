@@ -4,3 +4,4 @@ mongodb_host: mongodb.ddaaws92s.store
 redis_host: redis.ddaaws92s.store
 mysql_host: mysql.ddaaws92s.store
 rabbitmq_host: rabbitmq.ddaaws92s.store
+catalogue_host: catalogue.ddaaws92s.store
